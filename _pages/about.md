@@ -25,7 +25,7 @@ I'm interested in the information representation and processing mechanisms in bi
 For example,
 - how is information propagated in the brain networks through neuronal population firing patterns;
 - how can we extract topological and geometric properties to intuitively understand the mechanisms;
-- and how can these mechanisms inspire us in designing interpretable artificial intelligent systems.
+- and how can these mechanisms inspire us to design interpretable artificial intelligent systems.
 
 To achieve this goal, I develop geometry- and topology-aware data analysis tools with deep learning models, and apply them on *in vivo* neuronal population recordings during perception, spatial navigation, motor control, and other brain functions. 
 
