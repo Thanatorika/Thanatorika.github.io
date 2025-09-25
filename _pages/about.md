@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<<<<<<< HEAD
 ## News
 - **I'm applying for PhD programs in theoretical neuroscience & NeuroAI starting 2026 Fall!**
 - **I will attend NeurIPS 2025 and present posters at two workshops (NeurReps & DBM). Let's chat!**
@@ -51,3 +52,6 @@ You can neglect the tones if you don't understand them.
 I really appreciate your effort to pronounce my name correctly if you are not a native Chinese language speaker,
 and any estimation not farther than "Ryan Wayne" is acceptable.
 
+=======
+AAA
+>>>>>>> b5dfe0708dccd752c67c956e1f7d537fe8e3501a
