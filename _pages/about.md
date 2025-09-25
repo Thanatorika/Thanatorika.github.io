@@ -49,5 +49,5 @@ The "e" in "ren" is a short and soft "uh".
 You can neglect the tones if you don't understand them.
 
 I really appreciate your effort to pronounce my name correctly if you are not a native Chinese language speaker,
-and any estimation not farther than "Ryan Wayne" is acceptable.
+and any estimation not farther than "Ryan Wayne" can be recognized by me.
 
